@@ -5,7 +5,7 @@ The project explores efficient cube representations and heuristic-driven solving
 
 ## Features
 
-Multiple cube representations:
+**Multiple cube representations**:
 3D Array, 1D Array, and Bitboard models.
 
 ### Implemented solvers:
