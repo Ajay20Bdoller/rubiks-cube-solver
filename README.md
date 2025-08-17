@@ -10,6 +10,7 @@ The project explores efficient cube representations and heuristic-driven solving
 
 ### Implemented solvers:
 ***BFS (Breadth-First Search)*** – guarantees shortest solution but memory-heavy.
+
 ***DFS (Depth-First Search)*** – memory efficient, may return longer solutions.
 
 IDDFS (Iterative Deepening DFS) – balance of DFS + BFS.
